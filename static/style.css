@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+h1, h2, h3 {
+    color: #004080;
+}
+
+.stButton > button {
+    background-color: #007bff;
+    color: white;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+
+/* Add more CSS as needed */

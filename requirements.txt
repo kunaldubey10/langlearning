@@ -1,0 +1,4 @@
+streamlit
+mysql-connector-python
+googletrans==4.0.0-rc1
+streamlit-option-menu
